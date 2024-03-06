@@ -2,3 +2,9 @@ body
 {
     background-color: chocolate;
 }
+p{
+    width: 150px;
+    height: 50px;
+    background-color: green;
+    text-align: center;
+}
